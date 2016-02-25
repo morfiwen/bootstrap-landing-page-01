@@ -21,6 +21,7 @@ nav a {
   color: #fff;
   font-size: 14px;
   text-transform: uppercase;
+  font-weight: 700;
 }
 
 nav a:hover {
@@ -46,8 +47,15 @@ header nav {
   padding-top: 10em;
 }
 
+.main-text {
+  padding: 10px;
+  line-height: 1.2em;
+  max-width: 400px;
+  background-color: rgba(225, 225, 225, 0.5);
+}
+
 .jumbotron p {
-  width: 50%;
+  
   font-weight: 300;
 }
 
